@@ -1,0 +1,167 @@
+{
+  "courses": [
+    {
+      "name": "React Js",
+      "courseId": 44321,
+      "description": "Course to Understand Basics and Create RoadMap to building React Js apps",
+      "dateOfStart": "10/07/2021",
+      "totalSeats": "30",
+      "icon": "FaReact"
+    },
+    {
+      "name": "Angular Js",
+      "courseId": 34552,
+      "description": "Study of Advanced Angular concepts including CRUD operations",
+      "dateOfStart": "21/07/2021",
+      "totalSeats": "20",
+      "icon": "FaAngular"
+    },
+    {
+      "name": "Node Js",
+      "courseId": 76645,
+      "description": "How to Build applications using Node with the help of express library and mongodb",
+      "dateOfStart": "01/08/2021",
+      "totalSeats": "30",
+      "icon": "FaNodeJs"
+    },
+    {
+      "name": "Next Js",
+      "courseId": 23222,
+      "description": "Using Automation by utlizing Next Js library, how effectively Nx.js can be utilized",
+      "dateOfStart": "12/08/2021",
+      "totalSeats": "25",
+      "icon": "SiNextDotJs"
+    },
+    {
+      "name": "Vue Js",
+      "courseId": 56333,
+      "description": "Learn new JS library in the market which was developed by Laravel Team",
+      "dateOfStart": "26/01/2021",
+      "totalSeats": "30",
+      "icon": "FaVuejs"
+    }
+  ],
+  "trainees": [
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "emailId": "test@test.com",
+      "contact": "test",
+      "courseId": 44321,
+      "courseName": "React Js",
+      "formBgColor": "hsl(600,93-,53-)",
+      "enrolledDate": "2021-06-09T09:17:19.659Z",
+      "id": 4
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "emailId": "test@test.com",
+      "contact": "test",
+      "courseId": 44321,
+      "courseName": "React Js",
+      "formBgColor": "hsl(600,93-,53-)",
+      "enrolledDate": "2021-06-09T09:26:46.167Z",
+      "id": 5
+    },
+    {
+      "firstName": "test1",
+      "lastName": "test1",
+      "emailId": "test12@test.com",
+      "contact": "test",
+      "courseId": 44321,
+      "courseName": "React Js",
+      "formBgColor": "hsl(600,93-,53-)",
+      "enrolledDate": "2021-06-09T09:39:58.598Z",
+      "id": 6
+    },
+    {
+      "firstName": "david",
+      "lastName": "alaba",
+      "emailId": "david@gmail.com",
+      "contact": "787555232222",
+      "courseId": 44321,
+      "courseName": "React Js",
+      "formBgColor": "hsl(600,93-,53-)",
+      "enrolledDate": "2021-06-09T09:43:31.183Z",
+      "id": 7
+    },
+    {
+      "firstName": "timo",
+      "lastName": "werner",
+      "emailId": "timo@werner.com",
+      "contact": "4545454545",
+      "courseId": 44321,
+      "courseName": "React Js",
+      "formBgColor": "hsl(600,93-,53-)",
+      "enrolledDate": "2021-06-09T13:15:10.968Z",
+      "id": 8
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "emailId": "test@test.com",
+      "contact": "test",
+      "courseId": 44321,
+      "courseName": "React Js",
+      "formBgColor": "hsl(600,93-,53-)",
+      "enrolledDate": "2021-06-09T13:23:14.114Z",
+      "id": 9
+    },
+    {
+      "firstName": "asdasd",
+      "lastName": "asdasd",
+      "emailId": "asdasd@asd.com",
+      "contact": "asdasd",
+      "courseId": 44321,
+      "courseName": "React Js",
+      "formBgColor": "hsl(600,93-,53-)",
+      "enrolledDate": "2021-06-15T23:47:57.624Z",
+      "id": 12
+    },
+    {
+      "firstName": "sdfsdf",
+      "lastName": "fsdfsdf",
+      "emailId": "test@test.com",
+      "contact": "werwer",
+      "courseId": 34552,
+      "courseName": "Angular Js",
+      "formBgColor": "hsl(700,93-,53-)",
+      "enrolledDate": "2021-06-15T23:53:03.588Z",
+      "id": 13
+    },
+    {
+      "firstName": "asdasd",
+      "lastName": "asdsda",
+      "emailId": "asdasd@asd.com",
+      "contact": "asdasd",
+      "courseId": 34552,
+      "courseName": "Angular Js",
+      "formBgColor": "hsl(700,93-,53-)",
+      "enrolledDate": "2021-06-15T23:54:45.868Z",
+      "id": 14
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "emailId": "test@test.com",
+      "contact": "test",
+      "courseId": 44321,
+      "courseName": "React Js",
+      "formBgColor": "hsl(600,93-,53-)",
+      "enrolledDate": "2021-06-16T14:16:29.371Z",
+      "id": 15
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "emailId": "",
+      "contact": "",
+      "courseId": 44321,
+      "courseName": "React Js",
+      "formBgColor": "hsl(600,93-,53-)",
+      "enrolledDate": "2021-06-16T14:21:26.615Z",
+      "id": 16
+    }
+  ]
+}

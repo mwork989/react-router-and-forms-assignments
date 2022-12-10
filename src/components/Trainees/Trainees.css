@@ -1,0 +1,8 @@
+.trainee-list{
+    margin:35px;
+    
+}
+
+.trainee-list li{
+    border-bottom: 2px dashed orange;
+}

@@ -1,0 +1,52 @@
+
+
+form{
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    flex-flow: column;
+    width: 350px;
+    color:white;
+    margin:0px auto;
+}
+
+input, input:focus{
+    border: none;
+    outline: none;
+    background: transparent;
+    border-bottom: 2px solid rgb(15, 13, 13);
+}
+
+.btn {
+    margin:0px auto;
+    width:200px;
+    border: 2px solid white;
+    border-radius: 0.6em;
+    color:black;
+    cursor: pointer;
+    text-transform: uppercase;
+    padding: 5px;
+  }
+  .btn:hover {
+    color: #fff;
+    outline: 0;
+  }
+  
+  .first {
+    -webkit-transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+    transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+  }
+  .first:hover {
+    box-shadow: 0 0 40px 40px #130a09 inset;
+  }
+
+  .btn a,.btn a:hover, .btn a:visited,  .btn a:focus{
+      text-decoration: none;
+      
+  }
+
+  .register-success{
+      font-size: 30px;
+      text-align: center;
+  }
+
