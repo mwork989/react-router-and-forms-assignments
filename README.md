@@ -35,4 +35,4 @@ Open [http:localhost:6700](http://localhost:6700) to view it in the browser.
 
 ### `DEMO`
 
-![Alt Text](20210609_151253.gif)
+![Alt Text](20210609_151253.gif)![20210609_151253](https://user-images.githubusercontent.com/94507911/206860941-8aa146a4-4c77-4723-be81-06a310992993.gif)
